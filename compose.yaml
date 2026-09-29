@@ -1,0 +1,16 @@
+services:
+  bot:
+    build: .
+    container_name: traektoria-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      # Папка data — чтобы userdata.json сохранялся между перезапусками
+      - ./data:/app/data
+      # Сертификаты Минцифры (только чтение)
+      - ./russian_trusted_ca_bundle.pem:/app/russian_trusted_ca_bundle.pem:ro
+    environment:
+      - NODE_EXTRA_CA_CERTS=/app/russian_trusted_ca_bundle.pem
+    ports:
+      - "3000:3000"

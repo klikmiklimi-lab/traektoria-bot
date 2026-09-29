@@ -1,0 +1,3548 @@
+[
+  {
+    "id": "1",
+    "title": "Олимпиада «Высшая проба»",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "IT",
+      "математика",
+      "наука"
+    ],
+    "deadline": "2026-11-05",
+    "link": "https://olymp.hse.ru/vp",
+    "source": "НИУ ВШЭ",
+    "is_all_russian": true
+  },
+  {
+    "id": "2",
+    "title": "Олимпиада «Ломоносов» МГУ",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "математика"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://olymp.msu.ru",
+    "source": "МГУ им. Ломоносова",
+    "is_all_russian": true
+  },
+  {
+    "id": "3",
+    "title": "Олимпиада «Физтех» по физике",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "инженерия"
+    ],
+    "deadline": "2026-11-12",
+    "link": "https://mipt.ru/education/olympiad",
+    "source": "МФТИ",
+    "is_all_russian": true
+  },
+  {
+    "id": "4",
+    "title": "Олимпиада «Технокубок» по программированию",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-12-01",
+    "link": "https://technocup.ru",
+    "source": "VK Education",
+    "is_all_russian": true
+  },
+  {
+    "id": "5",
+    "title": "Проект «Код будущего» (МФТИ)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-15",
+    "link": "https://futurecode.mipt.ru",
+    "source": "МФТИ / Минцифры",
+    "is_all_russian": true
+  },
+  {
+    "id": "6",
+    "title": "Школа дизайна НИУ ВШЭ — День открытых дверей",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "оффлайн",
+    "interests": [
+      "искусство"
+    ],
+    "deadline": "2026-10-25",
+    "link": "https://design.hse.ru",
+    "source": "Школа дизайна ВШЭ",
+    "is_all_russian": false
+  },
+  {
+    "id": "7",
+    "title": "Олимпиада Сеченовского университета по биологии",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "медицина",
+      "наука"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://sechenov.ru/olymp",
+    "source": "Сеченовский Университет",
+    "is_all_russian": true
+  },
+  {
+    "id": "8",
+    "title": "Школа юного медика РНИМУ им. Пирогова",
+    "type": "курс",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "оффлайн",
+    "interests": [
+      "медицина"
+    ],
+    "deadline": "2026-11-12",
+    "link": "https://rsmu.ru",
+    "source": "РНИМУ им. Пирогова",
+    "is_all_russian": false
+  },
+  {
+    "id": "9",
+    "title": "Финансовая олимпиада «Миссия выполнима»",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "онлайн",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-25",
+    "link": "https://finstolymp.ru",
+    "source": "Финансовый университет",
+    "is_all_russian": true
+  },
+  {
+    "id": "10",
+    "title": "Программа «Стартап-школа» Сколково",
+    "type": "проект",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "бизнес",
+      "IT"
+    ],
+    "deadline": "2026-12-01",
+    "link": "https://sk.ru",
+    "source": "Сколково",
+    "is_all_russian": false
+  },
+  {
+    "id": "11",
+    "title": "Всероссийская олимпиада «Я — профессионал»",
+    "type": "олимпиада",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "IT",
+      "бизнес",
+      "наука"
+    ],
+    "deadline": "2026-11-10",
+    "link": "https://yandex.ru/profi",
+    "source": "АНО «Россия — страна возможностей»",
+    "is_all_russian": true
+  },
+  {
+    "id": "12",
+    "title": "Мастерская анимации «Анимаккорд»",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "оффлайн",
+    "interests": [
+      "искусство",
+      "IT"
+    ],
+    "deadline": "2026-10-25",
+    "link": "https://animaccord.ru",
+    "source": "Анимаккорд",
+    "is_all_russian": false
+  },
+  {
+    "id": "13",
+    "title": "Олимпиада по программированию «Когнитивные технологии»",
+    "type": "олимпиада",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://cifra.mipt.ru",
+    "source": "МИФИ",
+    "is_all_russian": true
+  },
+  {
+    "id": "14",
+    "title": "Олимпиада «Курчатов» по физике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "инженерия"
+    ],
+    "deadline": "2026-11-18",
+    "link": "https://kursch.ru",
+    "source": "НИЦ «Курчатовский институт»",
+    "is_all_russian": true
+  },
+  {
+    "id": "15",
+    "title": "Школа предпринимательства РЭУ им. Плеханова",
+    "type": "курс",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-10",
+    "link": "https://rea.ru",
+    "source": "РЭУ им. Плеханова",
+    "is_all_russian": false
+  },
+  {
+    "id": "16",
+    "title": "День открытых дверей ИТМО",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "оффлайн",
+    "interests": [
+      "IT",
+      "наука"
+    ],
+    "deadline": "2026-10-26",
+    "link": "https://itmo.ru/ru/abit/dod.htm",
+    "source": "ИТМО",
+    "is_all_russian": false
+  },
+  {
+    "id": "17",
+    "title": "Олимпиада СПбГУ по математике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "гибрид",
+    "interests": [
+      "математика",
+      "наука"
+    ],
+    "deadline": "2026-11-04",
+    "link": "https://olympiada.spbu.ru",
+    "source": "СПбГУ",
+    "is_all_russian": true
+  },
+  {
+    "id": "18",
+    "title": "Олимпиада по программированию ИТМО",
+    "type": "олимпиада",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-22",
+    "link": "https://itmo.ru/ru/olymp",
+    "source": "ИТМО",
+    "is_all_russian": true
+  },
+  {
+    "id": "19",
+    "title": "Кружок авиамоделирования (СПб)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-10-05",
+    "link": "https://spb-kruzhok.ru",
+    "source": "Городской центр технического творчества",
+    "is_all_russian": false
+  },
+  {
+    "id": "20",
+    "title": "Стажировка в VK Education (СПб)",
+    "type": "стажировка",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "гибрид",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-18",
+    "link": "https://education.vk.company",
+    "source": "VK",
+    "is_all_russian": false
+  },
+  {
+    "id": "21",
+    "title": "Олимпиада «Азимут.School» СПбУТУиЭ",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "онлайн",
+    "interests": [
+      "бизнес",
+      "наука"
+    ],
+    "deadline": "2027-03-14",
+    "link": "https://spbume.ru",
+    "source": "СПбУТУиЭ",
+    "is_all_russian": true
+  },
+  {
+    "id": "22",
+    "title": "Олимпиада «Политех» СПбПУ",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "гибрид",
+    "interests": [
+      "инженерия",
+      "наука"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://olymp.spbstu.ru",
+    "source": "СПбПУ Петра Великого",
+    "is_all_russian": true
+  },
+  {
+    "id": "23",
+    "title": "Школа цифровых технологий (Ленобласть)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-01",
+    "link": "https://htmlacademy.ru",
+    "source": "HTML Academy",
+    "is_all_russian": true
+  },
+  {
+    "id": "24",
+    "title": "Конкурс «Лестница наук» (Ленобласть)",
+    "type": "конкурс",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Ленинградская область",
+    "format": "онлайн",
+    "interests": [
+      "наука",
+      "искусство"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://lestnica-nauk.ru",
+    "source": "Комитет образования ЛО",
+    "is_all_russian": false
+  },
+  {
+    "id": "25",
+    "title": "День открытых дверей СПбГУ",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "оффлайн",
+    "interests": [
+      "наука",
+      "медицина",
+      "искусство"
+    ],
+    "deadline": "2026-11-12",
+    "link": "https://abiturient.spbu.ru",
+    "source": "СПбГУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "26",
+    "title": "Олимпиада по информатике Университета ИТМО",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "онлайн",
+    "interests": [
+      "IT",
+      "математика"
+    ],
+    "deadline": "2026-12-05",
+    "link": "https://itmo.ru",
+    "source": "ИТМО",
+    "is_all_russian": true
+  },
+  {
+    "id": "27",
+    "title": "Инженерная школа СПбПУ для школьников",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СЗФО",
+    "city": "Санкт-Петербург",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://spbstu.ru",
+    "source": "СПбПУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "28",
+    "title": "Олимпиада ЮФУ по физике",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Ростов-на-Дону",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "инженерия"
+    ],
+    "deadline": "2026-11-06",
+    "link": "https://sfedu.ru/olymp",
+    "source": "ЮФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "29",
+    "title": "Курс по веб-разработке ЮФУ",
+    "type": "курс",
+    "grade": [
+      "студент-вуз",
+      "студент-спо"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Ростов-на-Дону",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-30",
+    "link": "https://sfedu.ru/it",
+    "source": "ЮФУ",
+    "is_all_russian": true
+  },
+  {
+    "id": "30",
+    "title": "День открытых дверей КубГУ",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Краснодар",
+    "format": "оффлайн",
+    "interests": [
+      "наука",
+      "IT"
+    ],
+    "deadline": "2026-10-25",
+    "link": "https://kubsu.ru",
+    "source": "КубГУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "31",
+    "title": "Стажировка в Ростелекоме (ЮФО)",
+    "type": "стажировка",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Ростов-на-Дону",
+    "format": "гибрид",
+    "interests": [
+      "IT",
+      "инженерия"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://rt.ru/career",
+    "source": "Ростелеком",
+    "is_all_russian": false
+  },
+  {
+    "id": "32",
+    "title": "IT-хакатон «Кубань Digital»",
+    "type": "конкурс",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Краснодар",
+    "format": "оффлайн",
+    "interests": [
+      "IT",
+      "бизнес"
+    ],
+    "deadline": "2026-11-25",
+    "link": "https://kuban.digital",
+    "source": "Кубань Digital",
+    "is_all_russian": false
+  },
+  {
+    "id": "33",
+    "title": "Кружок «Python для начинающих» (Сочи)",
+    "type": "кружок",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-12",
+    "link": "https://sirius.ru",
+    "source": "Сириус",
+    "is_all_russian": false
+  },
+  {
+    "id": "34",
+    "title": "Образовательная смена «Наука» в Сириусе",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-12-05",
+    "link": "https://sirius.ru",
+    "source": "Образовательный центр «Сириус»",
+    "is_all_russian": true
+  },
+  {
+    "id": "35",
+    "title": "Смена «Искусство» в Сириусе",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "искусство"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://sirius.ru",
+    "source": "Сириус",
+    "is_all_russian": false
+  },
+  {
+    "id": "36",
+    "title": "Фестиваль науки «Включай ЭКОлогику!» (ДГТУ)",
+    "type": "конференция",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Ростов-на-Дону",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-11-10",
+    "link": "https://donstu.ru",
+    "source": "ДГТУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "37",
+    "title": "Бизнес-инкубатор ЮФУ",
+    "type": "проект",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Ростов-на-Дону",
+    "format": "оффлайн",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-30",
+    "link": "https://sfedu.ru",
+    "source": "ЮФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "38",
+    "title": "Олимпиада СКФУ «45 параллель»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СКФО",
+    "city": "Ставрополь",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "математика"
+    ],
+    "deadline": "2026-11-07",
+    "link": "https://olymp.ncfu.ru",
+    "source": "СКФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "39",
+    "title": "IT-школа СКФУ",
+    "type": "курс",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "СКФО",
+    "city": "Ставрополь",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-28",
+    "link": "https://ncfu.ru",
+    "source": "СКФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "40",
+    "title": "Конкурс «Лидеры Кавказа»",
+    "type": "конкурс",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "СКФО",
+    "city": "Пятигорск",
+    "format": "оффлайн",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://lidersk.ru",
+    "source": "Росмолодёжь",
+    "is_all_russian": false
+  },
+  {
+    "id": "41",
+    "title": "День открытых дверей ДГУ",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "СКФО",
+    "city": "Махачкала",
+    "format": "оффлайн",
+    "interests": [
+      "наука",
+      "медицина"
+    ],
+    "deadline": "2026-10-22",
+    "link": "https://dgu.ru",
+    "source": "ДГУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "42",
+    "title": "Кружок робототехники (Кванториум Ставрополь)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "СКФО",
+    "city": "Ставрополь",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия",
+      "IT"
+    ],
+    "deadline": "2026-10-12",
+    "link": "https://kvantorium.ru",
+    "source": "Кванториум",
+    "is_all_russian": false
+  },
+  {
+    "id": "43",
+    "title": "Форум «Россия — мои горизонты» (Черкесск)",
+    "type": "конференция",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СКФО",
+    "city": "Черкесск",
+    "format": "оффлайн",
+    "interests": [
+      "бизнес",
+      "наука"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://bvbinfo.ru",
+    "source": "Минпросвещения РФ",
+    "is_all_russian": false
+  },
+  {
+    "id": "44",
+    "title": "Олимпиада по географии СКФУ",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СКФО",
+    "city": "Ставрополь",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-11-25",
+    "link": "https://ncfu.ru",
+    "source": "СКФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "45",
+    "title": "Проект «Код будущего» (КЧР)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "СКФО",
+    "city": "Черкесск",
+    "format": "оффлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-20",
+    "link": "https://futurecode.mipt.ru",
+    "source": "Минцифры РФ",
+    "is_all_russian": true
+  },
+  {
+    "id": "46",
+    "title": "Олимпиада КФУ по IT",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "гибрид",
+    "interests": [
+      "IT",
+      "математика"
+    ],
+    "deadline": "2026-11-03",
+    "link": "https://kpfu.ru",
+    "source": "КФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "47",
+    "title": "День открытых дверей КФУ",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "оффлайн",
+    "interests": [
+      "наука",
+      "IT",
+      "медицина"
+    ],
+    "deadline": "2026-10-28",
+    "link": "https://kpfu.ru/dod",
+    "source": "КФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "48",
+    "title": "Кружок робототехники (Кванториум Казань)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия",
+      "IT"
+    ],
+    "deadline": "2026-10-10",
+    "link": "https://kvantorium.ru",
+    "source": "Кванториум",
+    "is_all_russian": false
+  },
+  {
+    "id": "49",
+    "title": "Олимпиада НТО (Приволжье)",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Нижний Новгород",
+    "format": "гибрид",
+    "interests": [
+      "IT",
+      "инженерия"
+    ],
+    "deadline": "2026-10-25",
+    "link": "https://ntcontest.ru",
+    "source": "Кружковое движение НТИ",
+    "is_all_russian": true
+  },
+  {
+    "id": "50",
+    "title": "Стажировка в КАМАЗ (IT-отдел)",
+    "type": "стажировка",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "ПФО",
+    "city": "Набережные Челны",
+    "format": "оффлайн",
+    "interests": [
+      "IT",
+      "инженерия"
+    ],
+    "deadline": "2026-11-18",
+    "link": "https://kamaz.ru/career",
+    "source": "КАМАЗ",
+    "is_all_russian": false
+  },
+  {
+    "id": "51",
+    "title": "Стажировка в Acronis (ПФО)",
+    "type": "стажировка",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "гибрид",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-22",
+    "link": "https://acronis.com",
+    "source": "Acronis",
+    "is_all_russian": false
+  },
+  {
+    "id": "52",
+    "title": "Хакатон «Цифровой прорыв» (ПФО)",
+    "type": "конкурс",
+    "grade": [
+      "студент-спо",
+      "студент-вуз",
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Иннополис",
+    "format": "гибрид",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://leaders.digital",
+    "source": "АНО «Россия — страна возможностей»",
+    "is_all_russian": true
+  },
+  {
+    "id": "53",
+    "title": "Курс «Основы ML» (Университет Иннополис)",
+    "type": "курс",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "ПФО",
+    "city": "Иннополис",
+    "format": "онлайн",
+    "interests": [
+      "IT",
+      "наука"
+    ],
+    "deadline": "2026-10-25",
+    "link": "https://innopolis.university",
+    "source": "Университет Иннополис",
+    "is_all_russian": true
+  },
+  {
+    "id": "54",
+    "title": "Кружок «Веб-разработка» (IT-Куб Нижний Новгород)",
+    "type": "кружок",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Нижний Новгород",
+    "format": "оффлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-15",
+    "link": "https://it-cube.ru",
+    "source": "IT-Куб",
+    "is_all_russian": false
+  },
+  {
+    "id": "55",
+    "title": "Олимпиада по экономике ПФО",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "гибрид",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-14",
+    "link": "https://kpfu.ru",
+    "source": "КФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "56",
+    "title": "Интеллектуальная Олимпиада ПФО (БПЛА)",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "гибрид",
+    "interests": [
+      "инженерия",
+      "IT"
+    ],
+    "deadline": "2027-02-28",
+    "link": "https://pfo.ru",
+    "source": "Аппарат полпреда ПФО",
+    "is_all_russian": false
+  },
+  {
+    "id": "57",
+    "title": "Мастерская «Промышленный дизайн» (Иннополис)",
+    "type": "кружок",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ПФО",
+    "city": "Иннополис",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия",
+      "искусство"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://innopolis.university",
+    "source": "Университет Иннополис",
+    "is_all_russian": false
+  },
+  {
+    "id": "58",
+    "title": "Курс «Python-разработка» (Университет Иннополис)",
+    "type": "курс",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "ПФО",
+    "city": "Иннополис",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-10",
+    "link": "https://innopolis.university",
+    "source": "Университет Иннополис",
+    "is_all_russian": true
+  },
+  {
+    "id": "59",
+    "title": "Олимпиада УрФУ «Изумруд»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "УФО",
+    "city": "Екатеринбург",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "математика",
+      "IT"
+    ],
+    "deadline": "2026-11-06",
+    "link": "https://izumrud.urfu.ru",
+    "source": "УрФУ",
+    "is_all_russian": true
+  },
+  {
+    "id": "60",
+    "title": "День открытых дверей УрФУ",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "УФО",
+    "city": "Екатеринбург",
+    "format": "оффлайн",
+    "interests": [
+      "наука",
+      "IT",
+      "инженерия"
+    ],
+    "deadline": "2026-10-20",
+    "link": "https://urfu.ru",
+    "source": "УрФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "61",
+    "title": "Курс «Инженерия будущего» (УрФУ)",
+    "type": "курс",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "УФО",
+    "city": "Екатеринбург",
+    "format": "онлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-10-30",
+    "link": "https://urfu.ru",
+    "source": "УрФУ",
+    "is_all_russian": true
+  },
+  {
+    "id": "62",
+    "title": "Конкурс «Молодые профессионалы Урала»",
+    "type": "конкурс",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "УФО",
+    "city": "Челябинск",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия",
+      "IT"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://worldskills.ru",
+    "source": "WorldSkills Россия",
+    "is_all_russian": false
+  },
+  {
+    "id": "63",
+    "title": "Олимпиада по экологии УФО",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "УФО",
+    "city": "Тюмень",
+    "format": "онлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-11-10",
+    "link": "https://eco-olymp.ru",
+    "source": "Минприроды РФ",
+    "is_all_russian": false
+  },
+  {
+    "id": "64",
+    "title": "Уральская командная олимпиада по программированию",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "УФО",
+    "city": "Екатеринбург",
+    "format": "онлайн",
+    "interests": [
+      "IT",
+      "математика"
+    ],
+    "deadline": "2026-10-31",
+    "link": "https://acm.urfu.ru",
+    "source": "УрФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "65",
+    "title": "Проект «Школа Капитанов» (Екатеринбург)",
+    "type": "проект",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "УФО",
+    "city": "Екатеринбург",
+    "format": "гибрид",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2027-02-01",
+    "link": "https://школакапитанов.рф",
+    "source": "Движение Первых",
+    "is_all_russian": false
+  },
+  {
+    "id": "66",
+    "title": "Смена «Инженерия» в Сириусе (УрФО)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "УФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-12-10",
+    "link": "https://sirius.ru",
+    "source": "Сириус",
+    "is_all_russian": true
+  },
+  {
+    "id": "67",
+    "title": "Олимпиада по химии УрФУ",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "УФО",
+    "city": "Екатеринбург",
+    "format": "гибрид",
+    "interests": [
+      "медицина",
+      "наука"
+    ],
+    "deadline": "2026-11-22",
+    "link": "https://urfu.ru",
+    "source": "УрФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "68",
+    "title": "Кружок «Робототехника» (Кванториум Тюмень)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "УФО",
+    "city": "Тюмень",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-10-20",
+    "link": "https://kvantorium.ru",
+    "source": "Кванториум",
+    "is_all_russian": false
+  },
+  {
+    "id": "69",
+    "title": "Олимпиада НГУ по физике",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Новосибирск",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "математика"
+    ],
+    "deadline": "2026-11-05",
+    "link": "https://nsu.ru",
+    "source": "НГУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "70",
+    "title": "Олимпиада ТГУ (Сибирь)",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Томск",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "IT"
+    ],
+    "deadline": "2026-11-08",
+    "link": "https://olymp.tsu.ru",
+    "source": "ТГУ",
+    "is_all_russian": true
+  },
+  {
+    "id": "71",
+    "title": "Курс «AI и Data Science» (НГУ)",
+    "type": "курс",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "СФО",
+    "city": "Новосибирск",
+    "format": "онлайн",
+    "interests": [
+      "IT",
+      "наука"
+    ],
+    "deadline": "2026-10-22",
+    "link": "https://nsu.ru",
+    "source": "НГУ",
+    "is_all_russian": true
+  },
+  {
+    "id": "72",
+    "title": "Конкурс «Большая перемена» (СФО)",
+    "type": "конкурс",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "СФО",
+    "city": "Красноярск",
+    "format": "онлайн",
+    "interests": [
+      "бизнес",
+      "искусство",
+      "наука"
+    ],
+    "deadline": "2026-11-30",
+    "link": "https://bolshayaperemena.online",
+    "source": "Росмолодёжь",
+    "is_all_russian": true
+  },
+  {
+    "id": "73",
+    "title": "Кружок программирования (Томск)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "СФО",
+    "city": "Томск",
+    "format": "оффлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-15",
+    "link": "https://tomsk-it.ru",
+    "source": "Томский IT-центр",
+    "is_all_russian": false
+  },
+  {
+    "id": "74",
+    "title": "«Политехническая школа» ТПУ",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Томск",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия",
+      "наука"
+    ],
+    "deadline": "2027-05-31",
+    "link": "https://tpu.ru",
+    "source": "ТПУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "75",
+    "title": "Мероприятие «Новосибирск космический»",
+    "type": "конференция",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Новосибирск",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-15",
+    "link": "https://nsu.ru",
+    "source": "Музей космонавтики",
+    "is_all_russian": false
+  },
+  {
+    "id": "76",
+    "title": "Олимпиада по биологии ТГУ",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Томск",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-11-22",
+    "link": "https://tsu.ru",
+    "source": "ТГУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "77",
+    "title": "Олимпиада «Бельчонок» СФУ",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Красноярск",
+    "format": "онлайн",
+    "interests": [
+      "наука",
+      "математика"
+    ],
+    "deadline": "2026-11-18",
+    "link": "https://sfu-kras.ru",
+    "source": "СФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "78",
+    "title": "Школа юного инженера (НГТУ)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "СФО",
+    "city": "Новосибирск",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-11-25",
+    "link": "https://nstu.ru",
+    "source": "НГТУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "79",
+    "title": "Олимпиада ДВФУ по IT",
+    "type": "олимпиада",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ДФО",
+    "city": "Владивосток",
+    "format": "гибрид",
+    "interests": [
+      "IT",
+      "математика"
+    ],
+    "deadline": "2026-11-04",
+    "link": "https://dvfu.ru",
+    "source": "ДВФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "80",
+    "title": "Олимпиада «Открытый Дальний Восток»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ДФО",
+    "city": "Хабаровск",
+    "format": "онлайн",
+    "interests": [
+      "наука",
+      "IT"
+    ],
+    "deadline": "2026-11-12",
+    "link": "https://open-dv.uchi.ru",
+    "source": "ДВФУ / Учи.ру",
+    "is_all_russian": false
+  },
+  {
+    "id": "81",
+    "title": "День открытых дверей ДВФУ",
+    "type": "день открытых дверей",
+    "grade": [
+      "10-11"
+    ],
+    "federal_district": "ДФО",
+    "city": "Владивосток",
+    "format": "оффлайн",
+    "interests": [
+      "наука",
+      "IT",
+      "медицина"
+    ],
+    "deadline": "2026-10-28",
+    "link": "https://dvfu.ru",
+    "source": "ДВФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "82",
+    "title": "Стажировка в Дальневосточном IT-кластере",
+    "type": "стажировка",
+    "grade": [
+      "студент-вуз"
+    ],
+    "federal_district": "ДФО",
+    "city": "Владивосток",
+    "format": "оффлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://dv-it.ru",
+    "source": "ДВФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "83",
+    "title": "Кружок робототехники (Владивосток)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "ДФО",
+    "city": "Владивосток",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия",
+      "IT"
+    ],
+    "deadline": "2026-10-08",
+    "link": "https://kvantorium.ru",
+    "source": "Кванториум",
+    "is_all_russian": false
+  },
+  {
+    "id": "84",
+    "title": "Чемпионат «FarEast CTF-2026. Битва кодов»",
+    "type": "конкурс",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "ДФО",
+    "city": "Хабаровск",
+    "format": "гибрид",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-11-25",
+    "link": "https://ctf-dv.ru",
+    "source": "ДВФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "85",
+    "title": "«Школа моряка» (Кванториум Владивосток)",
+    "type": "кружок",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "ДФО",
+    "city": "Владивосток",
+    "format": "оффлайн",
+    "interests": [
+      "инженерия"
+    ],
+    "deadline": "2026-10-22",
+    "link": "https://kvantorium.ru",
+    "source": "Кванториум",
+    "is_all_russian": false
+  },
+  {
+    "id": "86",
+    "title": "Олимпиада по биологии ДВФУ",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ДФО",
+    "city": "Владивосток",
+    "format": "гибрид",
+    "interests": [
+      "медицина",
+      "наука"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://dvfu.ru",
+    "source": "ДВФУ",
+    "is_all_russian": false
+  },
+  {
+    "id": "87",
+    "title": "Всероссийская олимпиада школьников",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука",
+      "математика",
+      "IT",
+      "искусство"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://olimpiada.ru/vosh",
+    "source": "Минпросвещения РФ",
+    "is_all_russian": true
+  },
+  {
+    "id": "88",
+    "title": "Олимпиада «Безопасные дороги» (Учи.ру)",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2027-02-25",
+    "link": "https://olympiads.uchi.ru",
+    "source": "Учи.ру",
+    "is_all_russian": true
+  },
+  {
+    "id": "89",
+    "title": "Фестиваль науки NAUKA 0+",
+    "type": "конференция",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11",
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-11-15",
+    "link": "https://festivalnauki.ru",
+    "source": "МГУ / Минобрнауки РФ",
+    "is_all_russian": true
+  },
+  {
+    "id": "90",
+    "title": "Курс «Введение в астрофизику» (Открытое образование)",
+    "type": "курс",
+    "grade": [
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://openedu.ru",
+    "source": "Открытое образование",
+    "is_all_russian": true
+  },
+  {
+    "id": "91",
+    "title": "Всероссийский конкурс «Большая перемена»",
+    "type": "конкурс",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "бизнес",
+      "искусство",
+      "наука"
+    ],
+    "deadline": "2026-11-30",
+    "link": "https://bolshayaperemena.online",
+    "source": "Росмолодёжь",
+    "is_all_russian": true
+  },
+  {
+    "id": "92",
+    "title": "Всероссийский конкурс «Молодые профессионалы»",
+    "type": "конкурс",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "инженерия",
+      "IT",
+      "бизнес"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://worldskills.ru",
+    "source": "WorldSkills Россия",
+    "is_all_russian": true
+  },
+  {
+    "id": "93",
+    "title": "Онлайн-курс «Введение в Data Science» (Открытое образование)",
+    "type": "курс",
+    "grade": [
+      "студент-вуз",
+      "студент-спо"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "IT",
+      "наука"
+    ],
+    "deadline": "2026-10-22",
+    "link": "https://openedu.ru",
+    "source": "Открытое образование",
+    "is_all_russian": true
+  },
+  {
+    "id": "94",
+    "title": "Олимпиада «IT-Планета»",
+    "type": "олимпиада",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "IT",
+      "инженерия"
+    ],
+    "deadline": "2026-11-30",
+    "link": "https://world-it-planet.org",
+    "source": "АНО «IT-Планета»",
+    "is_all_russian": true
+  },
+  {
+    "id": "95",
+    "title": "Всероссийская олимпиада по искусственному интеллекту",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-12-01",
+    "link": "https://ai.edu.gov.ru",
+    "source": "Минпросвещения РФ",
+    "is_all_russian": true
+  },
+  {
+    "id": "96",
+    "title": "Кружок «Мобильная разработка» (IT-Куб)",
+    "type": "кружок",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "оффлайн",
+    "interests": [
+      "IT"
+    ],
+    "deadline": "2026-10-18",
+    "link": "https://it-cube.ru",
+    "source": "IT-Куб",
+    "is_all_russian": true
+  },
+  {
+    "id": "97",
+    "title": "Олимпиада «Финатлон для старшеклассников»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-20",
+    "link": "https://finatlon.ru",
+    "source": "Финатлон",
+    "is_all_russian": true
+  },
+  {
+    "id": "98",
+    "title": "Курс «Финансовая грамотность» (Банк России)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "бизнес"
+    ],
+    "deadline": "2026-11-18",
+    "link": "https://fingramota.ru",
+    "source": "Банк России",
+    "is_all_russian": true
+  },
+  {
+    "id": "99",
+    "title": "Конкурс цифрового искусства «Digital Art»",
+    "type": "конкурс",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "искусство",
+      "IT"
+    ],
+    "deadline": "2026-12-01",
+    "link": "https://digitalart.ru",
+    "source": "Digital Art Contest",
+    "is_all_russian": true
+  },
+  {
+    "id": "100",
+    "title": "Всероссийский фотоконкурс «Мир вокруг нас»",
+    "type": "конкурс",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "искусство"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://photocontest.ru",
+    "source": "Фотоконкурс РФ",
+    "is_all_russian": true
+  },
+  {
+    "id": "101",
+    "title": "Олимпиада «Робофест»",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "инженерия",
+      "IT"
+    ],
+    "deadline": "2026-12-05",
+    "link": "https://robo-fest.ru",
+    "source": "Робофест",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684994-0",
+    "title": "Олимпиада «Наше наследие»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5031",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-1",
+    "title": "Школьный тур для 3-6 классов проходит до 23 октября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5031",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-3",
+    "title": "Московская олимпиада школьников",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/130",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-4",
+    "title": "Московская математическая олимпиада",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/1",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-9",
+    "title": "Ожидается расписание состязания",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/39",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-6",
+    "title": "Математический праздник",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/7",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-7",
+    "title": "Следующее соревнование пройдет в феврале 2027 года",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/7",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-8",
+    "title": "Московская традиционная олимпиада по лингвистике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/39",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-10",
+    "title": "Всероссийская олимпиада школьников «13 элемент. ALхимия будущего»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5021",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-54",
+    "title": "Следующее соревнование начнется в ноябре",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5005",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-13",
+    "title": "Южно-Российская межрегиональная олимпиада школьников «Архитектура и искусство»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/177",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-14",
+    "title": "Опубликованы итоги; следующее соревнование ожидается в октябре 2026 года",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/177",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-16",
+    "title": "Олимпиада школьников «Основы православной культуры»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/194",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-17",
+    "title": "Школьный тур проходит до 21 октября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/194",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-18",
+    "title": "Одна из немногих олимпиад, где ученики могут исследовать историю и культуру православия",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/194",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-19",
+    "title": "Московская открытая олимпиада «Наглядная геометрия»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5465",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-20",
+    "title": "Расписание следующего конкурса ожидается в декабре 2026 года",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5465",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-23",
+    "title": "Всероссийская олимпиада по химии",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/76",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-24",
+    "title": "Школьный этап на платформе «Сириуса» пройдет с 12 по 16 октября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/76",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-25",
+    "title": "Всероссийская олимпиада по праву",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/87",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-28",
+    "title": "Школьный этап проходит до 1 ноября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/91",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-27",
+    "title": "Всероссийская олимпиада по основам безопасности и защиты Родины",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/91",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684996-30",
+    "title": "Олимпиада «Высшая проба» по истории",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/147",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-31",
+    "title": "Первый день первого тура отборочного этапа состоится 29 сентября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/147",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-32",
+    "title": "Олимпиада «Высшая проба» по филологии",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/148",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-33",
+    "title": "Первый тур отборочного этапа состоится 26 сентября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/148",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-34",
+    "title": "Олимпиада «Высшая проба» по журналистике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/159",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-35",
+    "title": "Первый тур отборочного этапа состоится 3 октября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/159",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-36",
+    "title": "Интернет-олимпиада школьников по физике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/57",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-37",
+    "title": "Первый дистанционный тур пройдет с 22 по 28 ноября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/57",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-38",
+    "title": "Интернет-олимпиада школьников по физике проводится среди 7-11 классов в два этапа: отборочный и очный. При этом первый из них состоит из двух туров, а его результат - сумма участия в обоих.",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/57",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-39",
+    "title": "Санкт-Петербургская олимпиада школьников",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5175",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-40",
+    "title": "Санкт-Петербургская олимпиада школьников по физике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/241",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-50",
+    "title": "Опубликованы итоги; следующее соревнование ожидается в ноябре 2026 года",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5283",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-42",
+    "title": "Санкт-Петербургская олимпиада по химии",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/247",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-44",
+    "title": "Санкт-Петербургская олимпиада школьников по математике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/246",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-45",
+    "title": "Районный тур пройдет 14 ноября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/246",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-46",
+    "title": "Международная олимпиада Innopolis Open",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5237",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-47",
+    "title": "Международная олимпиада Innopolis Open по математике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5367",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-48",
+    "title": "Первый тур отбора пройдет 24-25 октября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5367",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-49",
+    "title": "Международная олимпиада Innopolis Open по информатике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5283",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-51",
+    "title": "Международная олимпиада Innopolis Open по информационной безопасности",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5698",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-52",
+    "title": "Первый тур отбора пройдет 14-15 ноября",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5698",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-53",
+    "title": "Олимпиада МГИМО(У) МИД России для школьников",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5005",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-55",
+    "title": "Олимпиада по гуманитарным и социальным наукам для 7-11 классов. В финале участники устно защищают эссе и выполняют письменную работу",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5005",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-56",
+    "title": "Олимпиада РАНХиГС",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5006",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-57",
+    "title": "Олимпиада РАНХиГС по обществознанию",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5009",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-62",
+    "title": "Отборочный этап стартует 20 октября. Регистрация открыта",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5412",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-59",
+    "title": "Олимпиада РАНХиГС по иностранному языку",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5008",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-61",
+    "title": "Олимпиада РАНХиГС по экономике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5412",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-63",
+    "title": "Физико-математическая олимпиада «Росатом»",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/201",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-64",
+    "title": "Олимпиада «Росатом» по математике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/411",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-65",
+    "title": "Дистанционный отборочный тур состоится c 17 ноября до 21 декабря",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/411",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-66",
+    "title": "Олимпиада «Росатом» по информатике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5881",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-67",
+    "title": "Следующая олимпиада ожидается в ноябре 2026 года",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5881",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-68",
+    "title": "Олимпиада имени академика И. В. Курчатова по математике",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/5051",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684998-87",
+    "title": "В этом году олимпиада не проводится",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/162",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790535684997-70",
+    "title": "Олимпиада школьников по информатике и программированию",
+    "type": "олимпиада",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/activity/4337",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "102",
+    "title": "Медицинский колледж №5 — День открытых дверей",
+    "type": "день открытых дверей",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "оффлайн",
+    "interests": [
+      "медицина"
+    ],
+    "deadline": "2026-11-05",
+    "link": "https://medcollege5.ru",
+    "source": "Медицинский колледж №5",
+    "is_all_russian": false
+  },
+  {
+    "id": "103",
+    "title": "Олимпиада по анатомии для студентов СПО",
+    "type": "олимпиада",
+    "grade": [
+      "студент-спо"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "онлайн",
+    "interests": [
+      "медицина",
+      "наука"
+    ],
+    "deadline": "2026-11-18",
+    "link": "https://medcollege.ru/olymp",
+    "source": "Ассоциация медколледжей",
+    "is_all_russian": true
+  },
+  {
+    "id": "104",
+    "title": "Курс «Первая помощь» (Красный Крест)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11",
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Онлайн",
+    "format": "онлайн",
+    "interests": [
+      "медицина"
+    ],
+    "deadline": "2026-11-25",
+    "link": "https://redcross.ru",
+    "source": "Российский Красный Крест",
+    "is_all_russian": true
+  },
+  {
+    "id": "105",
+    "title": "Волонтёрская программа в медицинских организациях",
+    "type": "проект",
+    "grade": [
+      "студент-спо",
+      "студент-вуз"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "оффлайн",
+    "interests": [
+      "медицина"
+    ],
+    "deadline": "2026-12-01",
+    "link": "https://volonter.med.ru",
+    "source": "Волонтёры-медики",
+    "is_all_russian": true
+  },
+  {
+    "id": "106",
+    "title": "Олимпиада по сестринскому делу (СПО)",
+    "type": "олимпиада",
+    "grade": [
+      "студент-спо"
+    ],
+    "federal_district": "ПФО",
+    "city": "Казань",
+    "format": "гибрид",
+    "interests": [
+      "медицина"
+    ],
+    "deadline": "2026-11-28",
+    "link": "https://kmk-kazan.ru",
+    "source": "Казанский медколледж",
+    "is_all_russian": false
+  },
+  {
+    "id": "107",
+    "title": "Профориентационная смена «Медицина» (Сириус)",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "медицина",
+      "наука"
+    ],
+    "deadline": "2026-12-10",
+    "link": "https://sirius.ru",
+    "source": "Сириус",
+    "is_all_russian": true
+  },
+  {
+    "id": "108",
+    "title": "Мастер-класс «Современная диагностика» (РНИМУ)",
+    "type": "курс",
+    "grade": [
+      "студент-спо",
+      "студент-вуз",
+      "10-11"
+    ],
+    "federal_district": "ЦФО",
+    "city": "Москва",
+    "format": "гибрид",
+    "interests": [
+      "медицина"
+    ],
+    "deadline": "2026-11-22",
+    "link": "https://rsmu.ru",
+    "source": "РНИМУ им. Пирогова",
+    "is_all_russian": false
+  },
+  {
+    "id": "olimp-1790536502052-29",
+    "title": "Партнерский материал",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-27",
+    "link": "https://olimpiada.ru/article/1271",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790673302039-35",
+    "title": "Идет подведение итогов первого тура отборочного этапа",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://olimpiada.ru/activity/148",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790673302039-41",
+    "title": "Всероссийская естественнонаучная олимпиада «Российская школа фармацевтов»",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://olimpiada.ru/activity/5653",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "olimp-1790673302039-42",
+    "title": "Ожидается расписание соревнования",
+    "type": "олимпиада",
+    "grade": [
+      "5-7",
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "Россия",
+    "city": "Разные города",
+    "format": "гибрид",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://olimpiada.ru/activity/5653",
+    "source": "Olimpiada.ru (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-111",
+    "title": "Средняя специальная музыкальная школа «Сириус»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://ssmsh.sirius.online/",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-113",
+    "title": "Ассоциация школ — партнеров «Сириуса»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/school-partners",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-114",
+    "title": "Школы – Ассоциированные партнеры «Сириуса»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/schools",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300602-132",
+    "title": "Образовательные программы",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/edu/pedagogam",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300602-136",
+    "title": "МЕТОДИЧЕСКОЕ СОПРОВОЖДЕНИЕ МОДЕЛЬНОЙ ПРОГРАММЫ",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/edu/modelprog",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300600-42",
+    "title": "Программы стажировок и трудоустройства",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/edu/graduates-events",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300600-50",
+    "title": "Партнерские программы",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/obuchenie/partners",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-59",
+    "title": "Всероссийский конкурс научно-технологических проектов «Большие вызовы»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://konkurs.sochisirius.ru",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-60",
+    "title": "Программа «Уроки настоящего»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://scienceclass.sirius.ru",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-62",
+    "title": "Конкурс молодых музыкантов «Созвездие»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sozvezdiesirius.ru",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-84",
+    "title": "Стартовал школьный этап ВсОШ по физике",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/news/7833",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790673300601-89",
+    "title": "В Сириусе открылась выставка Александра Поверина — автора программы «Основы гончарного искусства»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/news/7829",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  },
+  {
+    "id": "sirius-1790694900332-84",
+    "title": "Открыт приём заявок на IX Всероссийский конкурс молодых музыкантов «Созвездие»",
+    "type": "курс",
+    "grade": [
+      "8-9",
+      "10-11"
+    ],
+    "federal_district": "ЮФО",
+    "city": "Сочи",
+    "format": "оффлайн",
+    "interests": [
+      "наука"
+    ],
+    "deadline": "2026-10-29",
+    "link": "https://sochisirius.ru/news/7835",
+    "source": "Сириус (парсинг)",
+    "is_all_russian": true
+  }
+]
