@@ -6,4 +6,6 @@ data/userdata.json
 .DS_Store
 traektoria-bot.rar
 .vscode/
-.idea/-bot.rar
+.idea/
+*.zip
+*.rar
